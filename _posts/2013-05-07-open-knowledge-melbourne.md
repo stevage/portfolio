@@ -4,7 +4,7 @@ subtitle: Co-founded a collective of "open-everything" enthusiasts which ran doz
 layout: default
 date: 2013-05-07
 img: open-knowledge-melbourne.jpeg
-thumbnail: open-knowledge-melbourne.jpeg
+thumbnail: thumbs/open-knowledge-melbourne.jpeg
 alt: 
 project-date: 2013 – 2016
 tech: Everything.

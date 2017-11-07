@@ -5,7 +5,7 @@ layout: default
 modal-id: 20
 date: 2013-04-01
 img: cycletour-thumb.png
-thumbnail: cycletour-thumb.png
+thumbnail: thumbs/cycletour-thumb.png
 alt: 
 project-date: 2012 – 2017
 tech: Tilemill, PostGIS, Leaflet, OSRM, Salt

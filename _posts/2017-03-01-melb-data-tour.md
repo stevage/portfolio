@@ -4,7 +4,7 @@ subtitle: A 3D video showcasing a dozen of Melbourne's high-value open datasets.
 layout: default
 date: 2017-03-01
 img: melb-data-tour.png
-thumbnail: melb-data-tour.png
+thumbnail: thumbs/melb-data-tour.png
 alt: 
 project-date: March 2017
 tech: Mapbox-GL-JS, Socrata, JavaScript 

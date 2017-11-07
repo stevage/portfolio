@@ -4,7 +4,7 @@ subtitle: Developer-friendly documentation and sandbox for PTV's timetable API.
 layout: default
 date: 2015-05-01
 img: opentransportdata.png
-thumbnail: opentransportdata.png
+thumbnail: thumbs/opentransportdata.png
 alt: 
 project-date: May 2015
 tech: Swagger (Open API Initiative), Javascript

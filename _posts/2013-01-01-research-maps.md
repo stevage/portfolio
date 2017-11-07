@@ -5,7 +5,7 @@ layout: default
 modal-id: 12
 date: 2013-01-01
 img: research-maps-thumb.png
-thumbnail: research-maps-thumb.png
+thumbnail: thumbs/research-maps-thumb.png
 alt: 
 project-date: 2013-15
 tech: TileMill, CartoDB.

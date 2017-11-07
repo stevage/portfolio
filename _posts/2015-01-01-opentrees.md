@@ -5,7 +5,7 @@ layout: default
 modal-id: 4
 date: 2015-01-01
 img: open-trees.png
-thumbnail: open-trees-thumb.png
+thumbnail: thumbs/open-trees-thumb.png
 alt: Screenshot of OpenTrees.org
 project-date: April 2014
 tech: Mapbox-GL-JS, PostGIS, Bash.

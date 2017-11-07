@@ -5,7 +5,7 @@ layout: default
 modal-id: 
 date: 2014-03-03 # No idea
 img: opencouncildata-map.png
-thumbnail: opencouncildata-map.png
+thumbnail: thumbs/opencouncildata-map.png
 alt: 
 project-date: 2014 –
 tech: CartoDB, CartoCSS, Python

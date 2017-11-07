@@ -4,7 +4,7 @@ subtitle: Guidance, tools and templates for local governments considering open d
 layout: default
 date: 2015-12-01
 img: ocd-toolkit.png
-thumbnail: ocd-toolkit.png
+thumbnail: thumbs/ocd-toolkit.png
 alt: 
 project-date: 2015
 tech: Wordpress

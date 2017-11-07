@@ -4,7 +4,7 @@ subtitle: Meticulously referenced <a href="https://en.wikipedia.org/wiki/Larry_D
 layout: default
 date: 2016-09-26
 img: larry-donovan.png
-thumbnail: larry-donovan.png
+thumbnail: thumbs/larry-donovan.png
 alt: 
 project-date: September 2016
 tech: Words

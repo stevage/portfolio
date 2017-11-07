@@ -5,7 +5,7 @@ layout: default
 modal-id: 10
 date: 2015-01-01
 img: ocd-standards.png
-thumbnail: ocd-standards-thumb.png
+thumbnail: thumbs/ocd-standards-thumb.png
 alt: 
 project-date: April 2014
 tech: Jekyll, Github
