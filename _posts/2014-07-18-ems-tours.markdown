@@ -1,0 +1,17 @@
+---
+title: EMS Cycle Tours
+subtitle: An interactive map of the 60+ cycle tours around Victoria that my friends and I have done over the last 10 years or so.
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: ems-tours.png
+thumbnail: ems-tours-thumb.png
+alt: image-alt
+project-date: April 2014
+tech: Mapbox-GL-JS
+category: Side project.
+description: >
+    An interactive map of the 60+ cycle tours around Victoria that my friends and I have done over the last 10 years or so.<br>
+    <a href="http://stevage.github.io/ems-tours">Try it online</a>.
+
+---

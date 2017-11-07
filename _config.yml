@@ -1,0 +1,75 @@
+url: 
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: "Steve Bennett"
+email: me@stevebennett.me
+description: "Steve Bennett is an expert on open data, web mapping and open tech."
+
+history:
+  - title: Senior Open Data Specialist
+    org: City of Melbourne
+    date: 2016-17
+    description: Getting new data onto the open data platform, providing strategic advice about open data, working with other councils, and regularly promoting open data in public.
+  - title:
+    org: ANDS
+    date: 2010
+    description: I worked at ANDS
+  - title:
+    org: VeRSI
+    date: 2012
+    description: VeRSI was great.
+
+# Team names, titles and social links
+people:
+- name: Kay Garland
+  pic: 1
+  position: Lead Designer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Larry Parker
+  pic: 2
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+- name: Diana Petersen
+  pic: 3
+  position: Lead Developer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/stevage1
+  - title: stack-overflow
+    url: https://stackoverflow.com/users/263268
+  - title: github
+    url: http://github.com/stevage
+  - title: linkedin
+    url: https://www.linkedin.com/in/steve-bennett-43675469/
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Melbourne, Australia
+
+# Build settings
+markdown: kramdown
+permalink: pretty
