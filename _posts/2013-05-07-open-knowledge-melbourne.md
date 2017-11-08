@@ -1,6 +1,6 @@
 ---
 title: Open Knowledge Melbourne
-subtitle: Co-founded a collective of "open-everything" enthusiasts which ran dozens of community-building events.
+subtitle: Co-founded an industrious collective of "open-everything" enthusiasts.
 layout: default
 date: 2013-05-07
 img: open-knowledge-melbourne.jpeg

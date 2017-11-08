@@ -1,6 +1,6 @@
 ---
 title: OpenTrees.org
-subtitle: Browse the collective tree databases of dozen of local councils to demonstrate the value of open data.
+subtitle: Browse the collective open tree databases of dozen of local councils.
 layout: default
 modal-id: 4
 date: 2015-01-01

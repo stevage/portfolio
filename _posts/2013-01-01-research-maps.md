@@ -1,6 +1,6 @@
 ---
 title: Mapmaking for Academics
-subtitle: An evolving mapmaking workshop for PhD students and postdocs based on TileMill and Carto.
+subtitle: Teaching materials for PhD students and postdocs based on TileMill and Carto.
 layout: default
 modal-id: 12
 date: 2013-01-01

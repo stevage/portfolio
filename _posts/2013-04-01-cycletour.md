@@ -1,6 +1,6 @@
 ---
 title: cycletour.org
-subtitle: A route-planning site for cycle tours in Australia, with a highly specialised cartography, and customised routing engine.
+subtitle: Route-planning site for cyclists, with special cartography, and customised routing engine.
 layout: default
 modal-id: 20
 date: 2013-04-01

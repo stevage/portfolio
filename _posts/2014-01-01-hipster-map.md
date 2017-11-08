@@ -1,6 +1,6 @@
 ---
 title: Hipster Map of Melbourne
-subtitle: A snarky map of cafes, bars, shopping and other culturally "now" oddities.
+subtitle: A snarky map of cafes, bars, shopping and other cultural oddities.
 layout: default
 modal-id: 5
 date: 2015-01-01
