@@ -1,6 +1,6 @@
 ---
 title: Larry Donovan
-subtitle: Meticulously referenced <a href="https://en.wikipedia.org/wiki/Larry_Donovan_(bridge_jumper)">Wikipedia article</a> about an obscure 19<sup>th</sup> century bridge jumper.
+subtitle: Meticulously referenced <a href="https://en.wikipedia.org/wiki/Larry_Donovan_(bridge_jumper)">Wikipedia article</a> for obscure 19<sup>th</sup> century bridge jumper.
 layout: default
 date: 2016-09-26
 img: larry-donovan.png
