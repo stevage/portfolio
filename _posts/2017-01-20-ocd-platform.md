@@ -1,6 +1,6 @@
 ---
 title: Open Council Data Aggregator
-subtitle: Platform that automatically finds, acquires, merges, publishes open data from dozens of local governments.
+subtitle: Finds, acquires, merges, publishes local government open data.
 layout: default
 modal-id: 3
 date: 2017-01-20
