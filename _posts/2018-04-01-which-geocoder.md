@@ -27,4 +27,4 @@ Technically, the site is not very complicated. The complication arises from deve
 
 ### Links
 
-* Live site: https://getlon.lat
+* Live site: [getlon.lat](https://getlon.lat)
