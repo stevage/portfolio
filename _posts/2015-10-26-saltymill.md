@@ -12,7 +12,7 @@ tech: OpenStack, Salt, PostGIS, OSRM, Leaflet
 category: Work and side project.
 description: 
 ---
-SaltyMill is a fairly complex SaltStack recipe that deploys a number of map-related components that can be very fiddly to set up and integrate manually. The complete stack it sets up:
+SaltyMill is a fairly complex SaltStack recipe that deploys a number of map-related components that can be very fiddly to set up and integrate manually. Given a fresh Linux box (usually on OpenStack), with sufficient memory and disk space, the complete stack it sets up:
 
 - Can automatically download an OpenStreetMap extract for a given area.
 - Loads that into PostGIS.
