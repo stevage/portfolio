@@ -4,8 +4,8 @@ subtitle: Recommends geocoder plans based on your specific needs
 layout: default
 modal-id: 3
 date: 2018-04-01
-img: ocd-which-geocoder.png
-thumbnail: thumbs/ocd-which-geocoder-thumb.png
+img: which-geocoder.png
+thumbnail: thumbs/which-geocoder-thumb.png
 alt: 
 project-date: 2018-04-01
 tech: VueJS
