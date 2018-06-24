@@ -4,7 +4,7 @@ subtitle: Automated deployment of full OpenStreetMap, PostGIS, TileMill, OSRM st
 layout: default
 modal-id: 3
 date: 2015-10-26
-img: saltymillp.ng
+img: saltymill.png
 thumbnail: thumbs/saltymill-thumb.png
 alt: 
 project-date: 2014-15
