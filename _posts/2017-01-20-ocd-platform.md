@@ -25,6 +25,6 @@ The idea was originally workshopped through an REA (realestate.com.au) internal 
 
 ### Links
 
-* Back end (Github): https://github.com/OpenCouncilData/Aggregator
-* Front end (Github): https://github.com/opencouncildata/Platform
-* Live site: https://opencouncildata.github.io/Platform/ (Partially non-functional due to Cloudant retiring their free plan)
+* Back end (Github): [github.com/OpenCouncilData/Aggregator](https://github.com/OpenCouncilData/Aggregator)
+* Front end (Github): [github.com/opencouncildata/Platform](https://github.com/opencouncildata/Platform)
+* Live site: [opencouncildata.github.io/Platform/](https://opencouncildata.github.io/Platform/) (Partially non-functional due to Cloudant retiring their free plan)
