@@ -1,5 +1,5 @@
 ---
-title: Open Council Data Aggregator
+title: Open Council Data Platform
 subtitle: Finds, acquires, merges, publishes local government open data.
 layout: default
 modal-id: 3
