@@ -1,11 +1,11 @@
 ---
 title: Spatial Data Package Investigation
-subtitle: Analysis of need for "Spatial Data Package" specification within the Frictionless Data ecosystem
+subtitle: Analysing a possible spatial specification within the Frictionless Data ecosystem
 layout: default
 modal-id: 3
 date: 2018-02-01
 img: spatial-data-package.png
-thumbnail: thumbs/3d-dam-thumb.png
+thumbnail: thumbs/spatial-data-package-thumb.png
 alt: 
 project-date: February 2018
 tech: 
