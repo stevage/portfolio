@@ -1,5 +1,5 @@
 ---
-title: Mapbox2Tangrm
+title: Mapbox2Tangram
 subtitle: Automatically converts a Mapbox style file to a Tangram/Mapzen scene.
 layout: default
 modal-id: 3
