@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2018-09-01
 img: oc-dashboard.gif
-thumbnail: thumbs/oc-dashboard-thumb.png
+thumbnail: thumbs/oc-dashboard-thumb2.png
 alt: 
 project-date: 2018-09-01
 tech: Mapbox-GL-JS, Java, Tippecanoe, GDAL
