@@ -4,8 +4,8 @@ subtitle: Helps guess the correct projection given an easting-northing pair and 
 layout: default
 modal-id: 3
 date: 2018-11-28
-img: whattheproj.png
-thumbnail: mapbox2tangram.png
+img: what-the-proj.png
+thumbnail: what-the-proj-thumb.png
 alt: 
 project-date: November 2018
 tech: VueJS, proj4
