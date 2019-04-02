@@ -5,7 +5,7 @@ layout: default
 modal-id: 5
 date: 2015-01-01
 img: hipster-melbourne.png
-thumbnail: hipster-melbourne-thumb.png
+thumbnail: thumbs/hipster-melbourne-thumb.png
 alt: Hipster Map screenshot.
 project-date: April 2014
 tech: Mapbox-GL-JS

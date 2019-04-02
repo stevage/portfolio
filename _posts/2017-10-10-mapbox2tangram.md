@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2017-10-10
 img: mapbox2tangram.png
-thumbnail: mapbox2tangram.png
+thumbnail: thumbs/mapbox2tangram-thumb.png
 alt: 
 project-date: October 2017
 tech: Mapbox-GL-JS, NodeJS

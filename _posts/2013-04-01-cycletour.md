@@ -10,5 +10,5 @@ alt:
 project-date: 2012 – 2017
 tech: Tilemill, PostGIS, Leaflet, OSRM, Salt
 category: Side project.
-description: Full write-up [here](https://stevebennett.me/2015/01/14/cycletour-org-a-better-map-for-australian-cycle-tours/).
 ---
+Full write-up [here](https://stevebennett.me/2015/01/14/cycletour-org-a-better-map-for-australian-cycle-tours/)
