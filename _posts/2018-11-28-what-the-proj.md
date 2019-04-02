@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2018-11-28
 img: what-the-proj.png
-thumbnail: what-the-proj-thumb.png
+thumbnail: thumbs/what-the-proj-thumb.png
 alt: 
 project-date: November 2018
 tech: VueJS, proj4
