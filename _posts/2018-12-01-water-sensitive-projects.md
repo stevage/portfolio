@@ -4,7 +4,7 @@ subtitle: Explore planned and completed green infrastructure projects in Kunshan
 layout: default
 modal-id: 3
 date: 2018-12-01
-img: water-sensitive-projects
+img: water-sensitive-projects.png
 thumbnail: thumbs/water-sensitive-projects-thumb.png
 alt: 
 project-date: December 2019
