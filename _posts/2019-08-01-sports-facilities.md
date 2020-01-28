@@ -5,7 +5,7 @@ layout: default
 modal-id: 3
 date: 2019-08-01
 img: sports-facilities.png
-thumbnail: thumbs/sports-facilities.png
+thumbnail: thumbs/sports-facilities-thumb.png
 alt: 
 project-date: July 2019
 tech: VueJS, Mapbox-GL-JS, vector tiles
