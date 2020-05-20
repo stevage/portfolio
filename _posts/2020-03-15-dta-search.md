@@ -1,6 +1,6 @@
 ---
 title: DTA Search
-subtitle: Helpsparents of children with disabilities find school transport options.
+subtitle: Helps parents of children with disabilities find school transport options.
 img: dta-search.png
 thumbnail: thumbs/dta-search-thumb.png
 tech: 'VueJS, Mapbox-GL-JS, Turf'
